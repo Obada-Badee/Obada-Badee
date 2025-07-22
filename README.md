@@ -5,28 +5,23 @@ Highly motivated developer with advanced skills in multiple programming language
 programming roles. Committed to delivering high-quality code and problem-solving solutions. Passionate
 about continuous learning and staying up to date with emerging technologies.
 
-## 🚀 Projects
-### [AirBnB Clone](https://github.com/Obada-Badee/AirBnB_clone_v3)
-A full-stack clone of the popular AirBnB platform, focusing on both the backend and frontend components. This project demonstrates my ability to handle complex web applications.
-## ![air-bnb-clone](https://github.com/Gasimhacker/Gasimhacker/assets/102863215/7c9522fc-fe8c-4498-a51a-52e52be6aef9)
-
-
-### [Simple Shell](https://github.com/Gasimhacker/simple_shell)
-A project from the ALX Software Engineering program, this simple shell replicates the Unix shell with support for built-in and external commands, command-line arguments, and environment variable expansion.
-## ![shell](https://github.com/Gasimhacker/Gasimhacker/assets/102863215/004319df-83c8-4103-b778-0797be236d65)
-
-
-
-### [Coach-Fakka](https://github.com/Gasimhacker/Coach_fakka)
-Designed and developed a comprehensive and user-friendly workout app for coaches to efficiently manage their clients and track their progress.
-## ![]()
+## 🚀 Featured Projects
 
 ### [CI/CD Flask Demo](https://github.com/Obada-Badee/CI_CD_Flask_demo)
 This project demonstrates a Continuous Integration and Continuous Deployment (CI/CD) pipeline for a Flask
-application, utilizing GitHub, Jenkins, and Docker.
-## ![]()
+application, utilizing GitHub, Jenkins, and Docker. It showcases robust backend development and DevOps practices.
 
+### [ALX Files Manager](https://github.com/Gasimhacker/alx-files_manager)
+A robust file management system built with JavaScript (Node.js/Express.js) designed to handle user file operations efficiently, including uploading, downloading, and organizing files. This project highlights strong backend API development skills.
 
+### [AirBnB Clone](https://github.com/Obada-Badee/AirBnB_clone)
+A full-stack clone of the popular AirBnB platform, focusing on both the backend and frontend components. This project demonstrates my ability to handle complex web applications and full-stack development.
+
+### [Coach-Fakka](https://github.com/Gasimhacker/Coach_fakka)
+Designed and developed a comprehensive and user-friendly workout app for coaches to efficiently manage their clients and track their progress. This project showcases mobile development with Dart/Flutter and backend integration.
+
+### [LLM Robotics Task Planner](https://github.com/A7mdos/llm-robotics-task-planner)
+An innovative project focused on developing an LLM-based robotics task planner for autonomous systems. This demonstrates expertise in AI/ML engineering and its application in robotics.
 
 
 ## 🛠 Skills
@@ -43,3 +38,5 @@ application, utilizing GitHub, Jenkins, and Docker.
 ### Feel free to reach out if you have any questions or just want to connect!
 
 #### [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/obada-badee-60862b191/) [![My Skills](https://skillicons.dev/icons?i=gmail)](obadabadee.pro@gmail.com)
+
+
